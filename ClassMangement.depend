@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1671283108 source:c:\users\aymane lahnin\desktop\classmangement\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fcts1.h"
+
+1671283138 c:\users\aymane lahnin\desktop\classmangement\fcts1.h
+
